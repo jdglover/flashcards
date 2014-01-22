@@ -10,6 +10,7 @@ In order to run the program, you will need the flashcards Python file and six cs
 Place all of these files in the same directory, then edit 'myPath' to reflect this directory.  That's it! 
 
 License
+=========
 
 Copyright (c) 2013 Justin Glover
 
