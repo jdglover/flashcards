@@ -1,6 +1,8 @@
 flashcards
 ==========
 
+Written in Python 2.7.5.
+
 JG's flashcards
 
 This is a little flash card program that I created to practice some of the things I've been learning in Python.  It takes the basic idea of practicing vocabulary (or anything, really) with flashcards, and adds a dynamic component.  There are five interactive boxes and all of your words begin in the first box.  As you practice words and get them correct, they automatically move from the current box to the next box.  All words that you have successfully learned (i.e., gotten correct five consecutive times) are collected in the sixth box, where they can't be practiced anymore.  If you ever make a mistake with a given word, it is sent back to the first box and it must be practiced again. 
